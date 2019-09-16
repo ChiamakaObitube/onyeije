@@ -1,0 +1,4 @@
+[build]
+base = "onyeije/"
+publish = "onyeije/build/"
+command = "yarn build"
